@@ -4,6 +4,10 @@ Welcome to the hackathon!  This guide should help you locate information that wi
 
 First of all, please register at https://developer.cisco.com.
 
+Hashtag: Please use #ITPHack and #DevNet
+
+Spark Room: 
+
 Below are a collections of resources to help you.
 
 # Cisco Devnet
