@@ -6,7 +6,7 @@ First of all, please register at https://developer.cisco.com.
 
 Hashtag: Please use #ITPHack and #DevNet
 
-Spark Room: 
+Spark Room: http://cs.co/itphack42017
 
 Below are a collections of resources to help you.
 
