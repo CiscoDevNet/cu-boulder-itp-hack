@@ -20,6 +20,10 @@ Below are a collections of resources to help you.
   * Learn how to orchestrate network with APIC-EM API
   * Secure network with API 
   * IoT / Collaboration & more
+  
+## DevNet Github 
+
+https://github.com/CiscoDevNet
  
 # What to build
 
@@ -32,10 +36,7 @@ APIC-EM API https://www.youtube.com/watch?v=Ixdpk2Hqcro
 You don't need a hardware to try programming with DevNet's Sandbox: https://developer.cisco.com/site/devnet/sandbox/
 
 You can browse the catalog here: https://devnetsandbox.cisco.com/RM/Topology
- 
-# Github 
 
-https://github.com/CiscoDevNet
   
 # Cisco Spark:
 
